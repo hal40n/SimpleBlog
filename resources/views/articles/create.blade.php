@@ -13,3 +13,4 @@
         <a href="{{ route('articles.index') }}">キャンセル</a>
     </form>
 @endsection
+
